@@ -4,7 +4,7 @@
 
 @section('content')
 
-    <div class="jumbotron jumbotron-fluid">
+    <div class="jumbotron jumbotron-fluid"  style="background: url('{{ asset('assets/img/jumbotron2.jpg') }}') !important;">
         <div class="row d-flex justify-content-center">
             <!-- jumbo-heading -->
             <div class="jumbo-heading" data-aos="fade-down">

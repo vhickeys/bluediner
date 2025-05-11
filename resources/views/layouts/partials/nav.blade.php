@@ -6,7 +6,7 @@
             <div class="container ">
                 <!-- logo -->
                 <a class="nav-brand" href="{{ route('homepage') }}">
-                    <img src="img/logo.png" alt="Blue Diner" class="img-fluid">
+                    <img src="{{ asset('assets/img/blue-diner-logo.png') }}" alt="Blue Diner" class="img-fluid">
                 </a>
                 <!-- Navbar toggler -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"

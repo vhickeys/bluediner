@@ -31,11 +31,11 @@ Main Color scheme
 .page-link.active,
 .btn-secondary:hover,
 .btn-secondary:focus{
-	background-color: #035392;
+	background-color: #3b5aaa;
 }
 
 .bg-secondary {
-	background-color: #035392!important;
+	background-color: #3b5aaa!important;
 }
 
 .list-group-item.active,
@@ -61,12 +61,12 @@ ul.custom li:before,
 .team-style2 span,
 .colored-nav .top-bar .contact-details i,
 .colored-nav .top-bar a{
-	color: #035392;
+	color: #3b5aaa;
 }
 
 .testimonial-pic>img,
 .text-secondary {
-	color: #035392!important;
+	color: #3b5aaa!important;
 }
 
 .subtitle,
@@ -77,18 +77,18 @@ p.subtitle,
 .list-group-item.active,
 .alert-secondary,
 .team-style2 .img-box .social-icons li {
-	border-color: #035392;
+	border-color: #3b5aaa;
 }
 
 #footer-divider.secondary path,
 #divider.secondary path {
-	fill: #035392;
+	fill: #3b5aaa;
 }
 
 #waveHorizontal1,
 #waveHorizontal2,
 #waveHorizontal3 {
-	background: url("data:image/svg+xml,%3Csvg version='1.1' id='waveHorizontal1' class='wave1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='350px' height='20px' viewBox='0 0 350 20' enable-background='new 0 0 350 20' xml:space='preserve'%3E%3Cpath fill=' %23035392' d='M0,17.1C29.9,17.1,57.8,0,87.5,0c30.2,0,58.1,17.1,87.1,17.1c29.9,0,57.8-17.1,87.7-17.1 s57.8,17.1,87.7,17.1V20H0V17.1z'/%3E%3C/svg%3E%0A");	-webkit-animation-delay: -4s;
+	background: url("data:image/svg+xml,%3Csvg version='1.1' id='waveHorizontal1' class='wave1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='350px' height='20px' viewBox='0 0 350 20' enable-background='new 0 0 350 20' xml:space='preserve'%3E%3Cpath fill=' %233b5aaa' d='M0,17.1C29.9,17.1,57.8,0,87.5,0c30.2,0,58.1,17.1,87.1,17.1c29.9,0,57.8-17.1,87.7-17.1 s57.8,17.1,87.7,17.1V20H0V17.1z'/%3E%3C/svg%3E%0A");	-webkit-animation-delay: -4s;
 }
 
 /* Red */
@@ -184,7 +184,7 @@ ul.social-media li:hover i,
 .alert-primary,
 .list-group-item-action:focus,
 .list-group-item-action:hover {
-	background-color: #e4a40f;
+	background-color: #e7ac4c;
 }
 
 .bg-secondary .subtitle:after,
@@ -202,7 +202,7 @@ a:focus,
 a h5:hover,
 a h4:hover
  {
-	color: #e4a40f;
+	color: #e7ac4c;
 }
 
 .bg-secondary .subtitle,
@@ -215,11 +215,11 @@ a h4:hover
 .navbar .nav-item.active,
 .list-group-item-action:focus,
 .list-group-item-action:hover {
-	border-color: #e4a40f;
+	border-color: #e7ac4c;
 }
 
 #divider.tertiary path {
-	fill: #e4a40f;
+	fill: #e7ac4c;
 }
 
 /* Light links */

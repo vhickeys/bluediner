@@ -4,7 +4,7 @@
 
 @section('content')
 
-    <div class="jumbotron jumbotron-fluid">
+    <div class="jumbotron jumbotron-fluid" style="background: url('{{ asset('assets/img/jumbotron4.jpg') }}') !important;">
         <div class="row d-flex justify-content-center">
             <!-- jumbo-heading -->
             <div class="jumbo-heading" data-aos="fade-down">
@@ -161,7 +161,8 @@
                     <p> Whether your child dreams of being a superhero, a princess, an explorer, or anything in between, we
                         create immersive party environments tailored to those dreams. Every theme is brought to life through
                         detailed decorations, coordinated music, engaging games, and costumes that turn the space into a
-                        wonderland. <br><br> Our team collaborates with families to ensure every party reflects the child’s unique
+                        wonderland. <br><br> Our team collaborates with families to ensure every party reflects the child’s
+                        unique
                         interests, making it a truly personal and magical experience. From setup to smiles, we take care of
                         everything so you can enjoy every moment.
                     </p>
