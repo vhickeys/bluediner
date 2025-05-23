@@ -21,18 +21,18 @@
                 <img src="{{ asset('assets/img/slider/parallaxslider/sun.png') }}" class="ls-l" alt=""
                     style="top:-190px;left:650px;" data-ls="parallax:true; parallaxlevel:-3;">
                 <!--child image  -->
-                <img src="{{ asset('assets/img/slider/parallaxslider1.png') }}" class="ls-l" alt=""
+                {{-- <img src="{{ asset('assets/img/slider/parallaxslider1.png') }}" class="ls-l" alt=""
                     style="top:166px;left:520px;"
-                    data-ls="offsetxin:10; offsetyin:120; durationin:1100; rotatein:5; transformoriginin:59.3% 80.3% 0; offsetxout:-80; durationout:400; parallax:true; parallaxlevel:10;">
+                    data-ls="offsetxin:10; offsetyin:120; durationin:1100; rotatein:5; transformoriginin:59.3% 80.3% 0; offsetxout:-80; durationout:400; parallax:true; parallaxlevel:10;"> --}}
                 <!-- text  -->
                 <div class="ls-l header-wrapper"
                     data-ls="offsetyin:150; durationin:700; delayin:200; easingin:easeOutQuint; rotatexin:20; scalexin:1.4; offsetyout:600; durationout:400;">
                     <div class="header-text">
-                        <span>Welcome to</span>
-                        <h1> Blue Diner</h1>
+                        <span class="text-white">Welcome to</span>
+                        <h1 class="text-white"> Blue Diner</h1>
                         <!--the div below is hidden on small screens  -->
                         <div class="hidden-small">
-                            <p class="header-p">Celebrate Big Moments in a Colorful Way!</p>
+                            <p class="header-p text-white">Celebrate Big Moments in a Colorful Way!</p>
                             <a class="btn btn-secondary" href="{{ route('contact') }}">Contact us</a>
                         </div>
                         <!--/hidden-small -->
@@ -123,7 +123,7 @@
                                     music or a live acoustic set to create the perfect atmosphere for friends and family.
                                 </p>
                                 <!-- button -->
-                                <a href="javascript:void(0)" class="btn">Our Services</a>
+                                {{-- <a href="javascript:void(0)" class="btn">Our Services</a> --}}
                             </div>
                             <!-- /p-4 -->
                         </div>
@@ -146,7 +146,7 @@
                                 play zones.
                             </p>
                             <!-- button show on mobile only,where flip is disabled -->
-                            <a href="javascript:void(0)" class="btn d-lg-none">Our Team</a>
+                            <a href="{{ route('about') }}" class="btn d-lg-none">Our Team</a>
                         </div>
                         <!-- /p-5 -->
                         <!-- image -->
@@ -163,7 +163,7 @@
                                     In aliquet magna nec lobortis maximus. Etiam rhoncus leo a dolor placerat
                                 </p>
                                 <!-- button -->
-                                <a href="javascript:void(0)" class="btn">Our Team</a>
+                                <a href="{{ route('about') }}" class="btn">Our Team</a>
                             </div>
                             <!-- /p-4 -->
                         </div>

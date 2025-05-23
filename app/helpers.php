@@ -34,9 +34,9 @@ if (!function_exists('getContactDetails')) {
     function getContactDetails()
     {
         $contact = [
-            'phone' => '+234 123 456 7891',
+            'phone' => '(+234) 808 337 1282',
             'email' => 'info@bluediner.com',
-            'address' => 'F.C.T Abuja',
+            'address' => 'Tropic Galleria 269, Muhammadu, Muhammadu Buhari Way, Central Area, Abuja 234009, F.C.T',
         ];
 
         return $contact;

@@ -123,9 +123,6 @@
                         <!-- /col-lg-->
                     </div>
                     <!-- /row-->
-                    <!-- map-->
-                    <div id="map-canvas" class="mt-5 map-small-height container"></div>
-                    <!-- /map-->
                 </div>
                 <!-- /col-lg-12-->
             </div>
@@ -138,10 +135,8 @@
                     <div class="contact-icon-info">
                         <ul class="social-media text-center">
                             <!--social icons -->
-                            <li><a href="#"><i class="fab fa-facebook-square"></i></a></li>
-                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                            <li><a href="https://www.facebook.com/share/1QKqVqATcx/"><i class="fab fa-facebook-square"></i></a></li>
+                            <li><a href="https://www.instagram.com/bluediner_abuja?igsh=MW50MW9xNGpxdWI1Nw=="><i class="fab fa-instagram"></i></a></li>
                         </ul>
                     </div>
                     <!--/contact-icon-info -->

@@ -42,10 +42,11 @@
             <div class="col-sm-6 col-md-6 col-lg-4 activities">
                 <div class="portfolio-item">
                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="{{ asset('assets/img/menu/menu.jpg') }}" alt="">
+                        <img class="img-fluid " src="{{ asset('assets/img/menu/birthday-cake.jpg') }}"
+                            alt="{{ config('app.name') }}">
                         <span class="overlay-mask"></span>
-                        <a href="{{ asset('assets/img/menu/menu.jpg') }}" class="link centered"
-                            title="You can add caption to pictures.">
+                        <a href="{{ asset('assets/img/menu/birthday-cake.jpg') }}" class="link centered"
+                            title="Birthday Cake">
                             <i class="fa fa-expand"></i></a>
                     </div>
                     <h5 class="text-center">Birthday Cake</h5>
@@ -55,10 +56,10 @@
             <div class="col-sm-6 col-md-6 col-lg-4 school">
                 <div class="portfolio-item">
                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="{{ asset('assets/img/menu/menu.jpg') }}" alt="">
+                        <img class="img-fluid " src="{{ asset('assets/img/menu/cup-cake.jpg') }}"
+                            alt="{{ config('app.name') }}">
                         <span class="overlay-mask"></span>
-                        <a href="{{ asset('assets/img/menu/menu.jpg') }}" class="link centered"
-                            title="You can add caption to pictures.">
+                        <a href="{{ asset('assets/img/menu/cup-cake.jpg') }}" class="link centered" title="Cupcakes">
                             <i class="fa fa-expand"></i></a>
                     </div>
                     <h5 class="text-center">Cupcakes</h5>
@@ -68,10 +69,10 @@
             <div class="col-sm-6 col-md-6 col-lg-4 school">
                 <div class="portfolio-item">
                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="{{ asset('assets/img/menu/menu.jpg') }}" alt="">
+                        <img class="img-fluid " src="{{ asset('assets/img/menu/donuts.jpg') }}"
+                            alt="{{ config('app.name') }}">
                         <span class="overlay-mask"></span>
-                        <a href="{{ asset('assets/img/menu/menu.jpg') }}" class="link centered"
-                            title="You can add caption to pictures.">
+                        <a href="{{ asset('assets/img/menu/donuts.jpg') }}" class="link centered" title="Donuts">
                             <i class="fa fa-expand"></i></a>
                     </div>
                     <h5 class="text-center">Donuts </h5>
@@ -81,10 +82,10 @@
             <div class="col-sm-6 col-md-6 col-lg-4 activities">
                 <div class="portfolio-item">
                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="{{ asset('assets/img/menu/menu.jpg') }}" alt="">
+                        <img class="img-fluid " src="{{ asset('assets/img/menu/cake-pops.jpg') }}"
+                            alt="{{ config('app.name') }}">
                         <span class="overlay-mask"></span>
-                        <a href="{{ asset('assets/img/menu/menu.jpg') }}" class="link centered"
-                            title="You can add caption to pictures.">
+                        <a href="{{ asset('assets/img/menu/cake-pops.jpg') }}" class="link centered" title="Cake Pops">
                             <i class="fa fa-expand"></i></a>
                     </div>
                     <h5 class="text-center">Cake Pops </h5>
@@ -94,10 +95,10 @@
             <div class="col-sm-6 col-md-6 col-lg-4 school">
                 <div class="portfolio-item">
                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="{{ asset('assets/img/menu/menu.jpg') }}" alt="">
+                        <img class="img-fluid " src="{{ asset('assets/img/menu/cookies.jpg') }}"
+                            alt="{{ config('app.name') }}">
                         <span class="overlay-mask"></span>
-                        <a href="{{ asset('assets/img/menu/menu.jpg') }}" class="link centered"
-                            title="You can add caption to pictures.">
+                        <a href="{{ asset('assets/img/menu/cookies.jpg') }}" class="link centered" title="Cookies">
                             <i class="fa fa-expand"></i></a>
                     </div>
                     <h5 class="text-center">Cookies </h5>
@@ -107,10 +108,10 @@
             <div class="col-sm-6 col-md-6 col-lg-4 school">
                 <div class="portfolio-item">
                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="{{ asset('assets/img/menu/menu.jpg') }}" alt="">
+                        <img class="img-fluid " src="{{ asset('assets/img/menu/brownies.jpg') }}"
+                            alt="{{ config('app.name') }}">
                         <span class="overlay-mask"></span>
-                        <a href="{{ asset('assets/img/menu/menu.jpg') }}" class="link centered"
-                            title="You can add caption to pictures.">
+                        <a href="{{ asset('assets/img/menu/brownies.jpg') }}" class="link centered" title="Brownies">
                             <i class="fa fa-expand"></i></a>
                     </div>
                     <h5 class="text-center">Brownies </h5>
@@ -120,10 +121,11 @@
             <div class="col-sm-6 col-md-6 col-lg-4 activities">
                 <div class="portfolio-item">
                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="{{ asset('assets/img/menu/menu.jpg') }}" alt="">
+                        <img class="img-fluid " src="{{ asset('assets/img/menu/menu.jpg') }}"
+                            alt="{{ config('app.name') }}">
                         <span class="overlay-mask"></span>
                         <a href="{{ asset('assets/img/menu/menu.jpg') }}" class="link centered"
-                            title="You can add caption to pictures.">
+                            title="Mini Pancakes with Syrup">
                             <i class="fa fa-expand"></i></a>
                     </div>
                     <h5 class="text-center">Mini Pancakes with Syrup </h5>
@@ -133,10 +135,10 @@
             <div class="col-sm-6 col-md-6 col-lg-4 activities">
                 <div class="portfolio-item">
                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="{{ asset('assets/img/menu/menu.jpg') }}" alt="">
+                        <img class="img-fluid " src="{{ asset('assets/img/menu/candy-buffet.jpg') }}"
+                            alt="{{ config('app.name') }}">
                         <span class="overlay-mask"></span>
-                        <a href="{{ asset('assets/img/menu/menu.jpg') }}" class="link centered"
-                            title="You can add caption to pictures.">
+                        <a href="{{ asset('assets/img/menu/candy-buffet.jpg') }}" class="link centered" title="Candy Buffet">
                             <i class="fa fa-expand"></i></a>
                     </div>
                     <h5 class="text-center">Candy Buffet </h5>
@@ -146,13 +148,13 @@
             <div class="col-sm-6 col-md-6 col-lg-4 school">
                 <div class="portfolio-item">
                     <div class="gallery-thumb">
-                        <img class="img-fluid " src="{{ asset('assets/img/menu/menu.jpg') }}" alt="">
+                        <img class="img-fluid " src="{{ asset('assets/img/menu/chocolate.jpg') }}"
+                            alt="{{ config('app.name') }}">
                         <span class="overlay-mask"></span>
-                        <a href="{{ asset('assets/img/menu/menu.jpg') }}" class="link centered"
-                            title="You can add caption to pictures.">
+                        <a href="{{ asset('assets/img/menu/chocolate.jpg') }}" class="link centered" title="Chocolates">
                             <i class="fa fa-expand"></i></a>
                     </div>
-                    <h5 class="text-center">Chocolates  </h5>
+                    <h5 class="text-center">Chocolates </h5>
                 </div>
             </div>
         </div>

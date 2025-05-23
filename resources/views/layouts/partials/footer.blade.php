@@ -47,18 +47,23 @@
                 <div class="col-lg-4 text-center res-margin">
                     <h5>Contact Us</h5>
                     <ul class="list-unstyled mt-3">
-                        <li class="mb-1"><i class="fas fa-phone margin-icon "></i>{{ getContactDetails()['phone'] }}</li>
+                        <li class="mb-1"><i class="fas fa-phone margin-icon "></i>{{ getContactDetails()['phone'] }}
+                        </li>
                         <li class="mb-1"><i class="fas fa-envelope margin-icon"></i><a
-                                href="mailto:{{ getContactDetails()['email'] }}">{{ getContactDetails()['email'] }}</a></li>
+                                href="mailto:{{ getContactDetails()['email'] }}">{{ getContactDetails()['email'] }}</a>
+                        </li>
                         <li><i class="fas fa-map-marker margin-icon"></i>{{ getContactDetails()['address'] }}</li>
                     </ul>
                     <!--/ul -->
                     <!-- Start Social Links -->
                     <ul class="social-list text-center list-inline mt-2">
-                        <li class="list-inline-item"><a title="Facebook" href="#"><i class="fab fa-facebook-f"></i></a>
+                        <li class="list-inline-item"><a title="Facebook" target="__blank"
+                                href="https://www.facebook.com/share/1QKqVqATcx/"><i class="fab fa-facebook-f"></i></a>
                         </li>
-                        <li class="list-inline-item"><a title="Twitter" href="#"><i class="fab fa-twitter"></i></a></li>
-                        <li class="list-inline-item"><a title="Instagram" href="#"><i class="fab fa-instagram"></i></a>
+                        <li class="list-inline-item"><a title="Twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
+                        <li class="list-inline-item"><a title="Instagram" target="__blank"
+                                href="https://www.instagram.com/bluediner_abuja?igsh=MW50MW9xNGpxdWI1Nw=="><i
+                                    class="fab fa-instagram"></i></a>
                         </li>
                     </ul>
                     <!-- /End Social Links -->
@@ -68,9 +73,9 @@
                     <h5>Working Hours</h5>
                     <ul class="list-unstyled mt-3">
                         <li class="mb-1">Monday to Friday</li>
-                        <li class="mb-1">Open from 9am - 6pm</li>
-                        <li class="mb-1">Holidays - Closed</li>
-                        <li>Weekends - Closed</li>
+                        <li class="mb-1">Open from 8am - 6pm</li>
+                        <li class="mb-1">Holidays - Opened</li>
+                        <li>Weekends - Opened</li>
                     </ul>
                     <!--/ul -->
                 </div>

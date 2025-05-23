@@ -4,7 +4,7 @@
 
 @section('content')
 
-    <div class="jumbotron jumbotron-fluid"  style="background: url('{{ asset('assets/img/jumbotron2.jpg') }}') !important;">
+    <div class="jumbotron jumbotron-fluid" style="background: url('{{ asset('assets/img/jumbotron2.jpg') }}') !important;">
         <div class="row d-flex justify-content-center">
             <!-- jumbo-heading -->
             <div class="jumbo-heading" data-aos="fade-down">
@@ -160,6 +160,42 @@
                         <img class="img-fluid " src="{{ asset('assets/img/gallery/gallery9.jpg') }}" alt="">
                         <span class="overlay-mask"></span>
                         <a href="{{ asset('assets/img/gallery/gallery9.jpg') }}" class="link centered"
+                            title="You can add caption to pictures.">
+                            <i class="fa fa-expand"></i></a>
+                    </div>
+                </div>
+            </div>
+            <!-- Image 10 -->
+            <div class="col-sm-6 col-md-6 col-lg-4 activities">
+                <div class="portfolio-item">
+                    <div class="gallery-thumb">
+                        <img class="img-fluid " src="{{ asset('assets/img/gallery/gallery10.jpg') }}" alt="">
+                        <span class="overlay-mask"></span>
+                        <a href="{{ asset('assets/img/gallery/gallery10.jpg') }}" class="link centered"
+                            title="You can add caption to pictures.">
+                            <i class="fa fa-expand"></i></a>
+                    </div>
+                </div>
+            </div>
+            <!-- Image 11 -->
+            <div class="col-sm-6 col-md-6 col-lg-4 activities">
+                <div class="portfolio-item">
+                    <div class="gallery-thumb">
+                        <img class="img-fluid " src="{{ asset('assets/img/gallery/gallery11.jpg') }}" alt="">
+                        <span class="overlay-mask"></span>
+                        <a href="{{ asset('assets/img/gallery/gallery11.jpg') }}" class="link centered"
+                            title="You can add caption to pictures.">
+                            <i class="fa fa-expand"></i></a>
+                    </div>
+                </div>
+            </div>
+            <!-- Image 12 -->
+            <div class="col-sm-6 col-md-6 col-lg-4 school">
+                <div class="portfolio-item">
+                    <div class="gallery-thumb">
+                        <img class="img-fluid " src="{{ asset('assets/img/gallery/gallery12.jpg') }}" alt="">
+                        <span class="overlay-mask"></span>
+                        <a href="{{ asset('assets/img/gallery/gallery12.jpg') }}" class="link centered"
                             title="You can add caption to pictures.">
                             <i class="fa fa-expand"></i></a>
                     </div>
